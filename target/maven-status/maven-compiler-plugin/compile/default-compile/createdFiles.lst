@@ -1,0 +1,9 @@
+testgroup\PhoneCRUD\phone\PhoneController.class
+testgroup\PhoneCRUD\config\WebConfig.class
+testgroup\PhoneCRUD\phone\PhoneService.class
+testgroup\PhoneCRUD\phone\PhoneServiceImpl.class
+testgroup\PhoneCRUD\phone\PhoneModel.class
+testgroup\PhoneCRUD\config\HibernateConfig.class
+testgroup\PhoneCRUD\config\PhoneAppInitializer.class
+testgroup\PhoneCRUD\phone\PhoneDAOImpl.class
+testgroup\PhoneCRUD\phone\PhoneDAO.class
